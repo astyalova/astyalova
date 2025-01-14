@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @astyalova
-- 🌱 I’m currently learning c++
-- 📫 How to reach me bunnnyyy@mail.ru/nastyukha-neizvestno@yandex.ru
+- 🥹 Hi, I’m @astyalova
+- I’m currently learning c++
+- I’m interested in C++ Development (Backend)
+- How to reach me bunnnyyy@mail.ru/nastyukha-neizvestno@yandex.ru
+- but i pref tg 
 
 
 <center>
