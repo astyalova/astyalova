@@ -2,13 +2,10 @@ Hi there! 👋 I'm @astyalova (Anastasia)
 
 💻 Aspiring C++ Backend Developer | 🎿 Snowboarder | 🏗️ Puzzle Solver | 🍳 Cooking Enthusiast | 📖 Book Lover | 🐱 Cat Person
 
-🔹 Currently learning: C++ and algorithms
-
-🔹 Passionate about: Algorithms and problem-solving.
-
-🔹 Hobbies: Speedcubing (solving Rubik’s Cube fast ⚡), snowboarding 🏂, cooking delicious meals 🍲, and reading fiction & tech books 📚
-
-🔹 How to reach me: Prefer Telegram, but you can also email me at bunnnyyy@mail.ru / nastyukha-neizvestno@yandex.ru
+🔹 Currently learning: C++ and algorithms  
+🔹 Passionate about: Algorithms and problem-solving.    
+🔹 Hobbies: Speedcubing (solving Rubik’s Cube fast ⚡), snowboarding 🏂, cooking delicious meals 🍲, and reading fiction & tech books 📚  
+🔹 How to reach me: Prefer Telegram, but you can also email me at bunnnyyy@mail.ru / nastyukha-neizvestno@yandex.ru  
 
 
 
