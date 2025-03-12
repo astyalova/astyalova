@@ -4,7 +4,7 @@ Hi there! 👋 I'm @astyalova (Anastasia)
 
 🔹 Currently learning: C++ and algorithms  
 🔹 Passionate about: Algorithms and problem-solving.    
-🔹 Hobbies: Speedcubing (solving Rubik’s Cube fast ⚡), snowboarding 🏂, cooking delicious meals 🍲, and reading fiction & tech books 📚  
+🔹 Hobbies: Speedcubing (solving Rubik’s Cube fast ⚡), snowboarding 🏂, cooking delicious meals 🍲, and reading fiction & tech books 
 🔹 How to reach me: Prefer Telegram, but you can also email me at bunnnyyy@mail.ru / nastyukha-neizvestno@yandex.ru  
 
 
