@@ -11,9 +11,6 @@ Hi there! 👋 I'm @astyalova (Anastasia)
 
 <center>
   
- ### Algorithm
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/s0siher?ext=contest)
 
 ### Contact
 
